@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "438545620734",
+    "project_id": "chatpdm-b6844",
+    "storage_bucket": "chatpdm-b6844.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438545620734:android:bf23ae06d109b593bf4faf",
+        "android_client_info": {
+          "package_name": "br.edu.ifce.pdm.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438545620734-hsfp1ue9ijt3pcpa3u7a0gtf0fbm5qti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifce.pdm.mychat",
+            "certificate_hash": "6807bdd4afebc86afbc29c5e029f82fbc3cc98c7"
+          }
+        },
+        {
+          "client_id": "438545620734-vnmq9dj49kg2k5eca30mcrgp1118egm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhmdH1Xeuk-o0Wwsfz9cD4NmjSFntunLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438545620734-vnmq9dj49kg2k5eca30mcrgp1118egm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
